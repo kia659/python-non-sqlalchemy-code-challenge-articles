@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+!/usr/bin/env python3
 import ipdb;
 
 from classes.many_to_many import Article
@@ -7,6 +7,7 @@ from classes.many_to_many import Magazine
 
 if __name__ == '__main__':
     print("HELLO! :) let's debug :vibing_potato:")
+    Author("name")
 
 
     # don't remove this line, it's for debugging!
